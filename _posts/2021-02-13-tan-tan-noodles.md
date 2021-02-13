@@ -5,7 +5,7 @@ categories:
   - Chinese
   - Vegan
   - Noodles
-date: 2021-02-13 21:38:12
+date: 2021-02-13 21:38:00
 featured_image: /uploads/img-0101.JPG
 recipe:
   servings: '2'
