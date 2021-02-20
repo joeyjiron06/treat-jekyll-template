@@ -63,7 +63,7 @@ recipe:
     sauce](https://www.amazon.com/gp/product/B00B617XK2/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=joeyjiron-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B00B617XK2&amp;linkId=9de5f636ed2a9707517e27ff7aeddac7){:
     target="_blank" rel="noopener"}
   directions_markdown: >-
-    1. 1Thoroughly drain as much water as you can from tofu. Break it up and add
+    1. Thoroughly drain as much water as you can from tofu. Break it up and add
     it to a medium flame pan with oil.
 
     2. Cook tofu until very crisp and break it up until it looks like ground
