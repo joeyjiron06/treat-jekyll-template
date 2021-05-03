@@ -1,3 +1,4 @@
 - name: Tofu
   description: Great for asian food, a soy based meat alternative.
-  amazon_link: "https://www.amazon.com/gp/product/B000LKZ86K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=joeyjiron-20&creative=9325&linkCode=as2&creativeASIN=B000LKZ86K&linkId=93e34092870d146589d10246a2d5f001"
+  link: "https://www.amazon.com/gp/product/B000LKZ86K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=joeyjiron-20&creative=9325&linkCode=as2&creativeASIN=B000LKZ86K&linkId=93e34092870d146589d10246a2d5f001"
+  id: ad5f5e53-39d0-4743-93d6-470281711dc8
